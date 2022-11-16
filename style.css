@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: rgb(194, 83, 83);
+}
+
+.cell {
+    height: 100px;
+    width: 100px;
+    border: 1.5px solid rgb(201, 196, 196);
+    border-style: inset;
+}
+
+.blackcell {
+    background-color: rgb(17, 13, 13);
+}
+
+.whitecell {
+    background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+}
+
+.clear-board-button {
+  margin-top: 50px;
+}
+
+.display-div {
+  height: 200px;
+  width: 300px;
+  background-color: rgb(137, 141, 141);
+  text-align: center;
+  box-shadow: 10px 5px 5px black;
+}
